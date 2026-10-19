@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../maathru_care"
+		},
+		{
+			"path": "../model-host-mathru-care"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
